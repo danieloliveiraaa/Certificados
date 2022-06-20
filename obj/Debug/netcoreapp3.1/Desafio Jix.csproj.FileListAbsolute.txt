@@ -1,0 +1,109 @@
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.exe
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.deps.json
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.json
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.dev.json
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csprojAssemblyReference.cache
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.GenerateResource.cache
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfoInputs.cache
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfo.cs
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.genruntimeconfig.cache
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CopyComplete
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\Daniels\Documents\Úteis\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.exe
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.deps.json
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.json
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.dev.json
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csprojAssemblyReference.cache
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfoInputs.cache
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfo.cs
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CopyComplete
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Desktop\JIX\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.genruntimeconfig.cache
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.exe
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.deps.json
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.json
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.dev.json
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csprojAssemblyReference.cache
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.GenerateResource.cache
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfoInputs.cache
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfo.cs
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CoreCompileInputs.cache
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CopyComplete
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\Daniels\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.genruntimeconfig.cache
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.exe
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.deps.json
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.json
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.runtimeconfig.dev.json
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.AssemblyReference.cache
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.GenerateResource.cache
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfoInputs.cache
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.AssemblyInfo.cs
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.csproj.CopyComplete
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.dll
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.pdb
+C:\Users\danis\Desktop\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio Jix.genruntimeconfig.cache

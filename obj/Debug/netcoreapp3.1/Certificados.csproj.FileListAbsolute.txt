@@ -1,0 +1,120 @@
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.AssemblyReference.cache
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.GenerateResource.cache
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfoInputs.cache
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfo.cs
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CoreCompileInputs.cache
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.exe
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.deps.json
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.json
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.dev.json
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CopyComplete
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Documents\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.genruntimeconfig.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.exe
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.deps.json
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.json
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.dev.json
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.AssemblyReference.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.GenerateResource.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfoInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfo.cs
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CopyComplete
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.genruntimeconfig.cache
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Login.resources
+C:\Users\danis\Desktop\Estudo\C#\Projeto Jix\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EsqueciSenha.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.exe
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.deps.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.dev.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.AssemblyReference.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.EsqueciSenha.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Login.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.GenerateResource.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfoInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfo.cs
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.csproj.CopyComplete
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Certificados.genruntimeconfig.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Desafio Jix\obj\Debug\netcoreapp3.1\Desafio_Jix.Menu.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.exe
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.deps.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.runtimeconfig.dev.json
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\Gat.Controls.OpenDialog.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\OpenDialogWindowHandler.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.csproj.AssemblyReference.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.CadastroAluno.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.Visualizar.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.EnviaDocumento.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.EsqueciSenha.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.Login.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.Menu.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Desafio_Jix.Properties.Resources.resources
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.csproj.GenerateResource.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfoInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.AssemblyInfo.cs
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.csproj.CoreCompileInputs.cache
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.csproj.CopyComplete
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.dll
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.pdb
+C:\Users\danis\Desktop\Estudo\C#\Certificados\Certificados\obj\Debug\netcoreapp3.1\Certificados.genruntimeconfig.cache
